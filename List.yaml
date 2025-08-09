@@ -45,3 +45,4 @@ payload:
   - DOMAIN-KEYWORD,wiki,👍 低延迟节点
   - DOMAIN-KEYWORD,apple,🍎 苹果服务切换
   - DOMAIN-KEYWORD,cloudflare,🇺🇸 美国节点
+  - DOMAIN-SUFFIX,cloudflare-ech.com,🇺🇸 美国节点
