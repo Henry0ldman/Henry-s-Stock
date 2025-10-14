@@ -55,4 +55,4 @@ payload:
   - DOMAIN-SUFFIX,iwank.tv,👍 低延迟节点
   - DOMAIN-SUFFIX,beeg.com,👍 低延迟节点
   - DOMAIN-SUFFIX,video.externulls.com,👍 低延迟节点
-  - DOMAIN-KEYWORD,razer,🎯 本机直连
+  - DOMAIN-KEYWORD,razer,DIRECT
